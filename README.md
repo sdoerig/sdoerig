@@ -1,0 +1,14 @@
+- 👋 Hi, I’m Stefan Dörig
+- 👀 I’m interested in programming - have worked as developer for 20 years.
+- 🌱 I’m currently learning rust - I find it fun.
+- 💞️ I’m looking to collaborate on a bird house position finder. It should  
+     - be a progressive web app
+     - being usable on a smartphone
+     - identify the bird house according to its QR code
+     - taking pictures of the bird house
+     - submitting its geo location
+     - allow the user to submit the type of bird nest found in the house
+     - show the history of the bird house
+     - have a backend storing all this information
+- 📫 How to reach me: drop an e-mail to sdoerig@xdot.ch
+
