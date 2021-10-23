@@ -10,5 +10,5 @@
      - allow the user to submit the type of bird nest found in the house
      - show the history of the bird house
      - have a backend storing all this information
-- 📫 How to reach me: drop an e-mail to sdoerig@xdot.ch
+- 📫 How to reach me: github
 
