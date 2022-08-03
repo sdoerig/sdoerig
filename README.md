@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Stefan Dörig
 - 👀 I’m interested in programming - have worked as developer for 20 years.
-- 🌱 I’m currently learning Rust - I find it fun.
+- 🌱 I’m still learning Rust - and find it still fun.
 - 💞️ I’m looking to collaborate on a bird house position finder. It should  
      - be a progressive web app
      - being usable on a smartphone
