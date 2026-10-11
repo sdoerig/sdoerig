@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Stefan Dörig
-- 👀 I’m interested in programming - have worked as developer for 20 years.
+- 👀 I’m interested in programming - have worked as developer for 28 years.
 - 🌱 I’m still learning Rust - and find it still fun.
-- 💞️ I’m looking to collaborate on a bird house position finder. It should  
+- 💞️ Since april 2026 I'm developing carpathia - database introspection and code generation tool - that's why the birdhouse project pauses. 
+- ☕ The bird house position finder is paused. It should  
      - be a progressive web app
      - being usable on a smartphone
      - identify the bird house according to its QR code
